@@ -1,0 +1,13 @@
+﻿body {
+    font-family: Calibri;
+    width: 500px;
+    margin: auto;
+    font-size: 60px;
+    background-color: #fc6f6f;
+}
+body div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+    text-align: center;
+}
